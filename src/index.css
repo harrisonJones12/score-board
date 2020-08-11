@@ -1,1 +1,60 @@
+body {
+  background-color: #181818;
+}
 
+/* .score-board-home {
+} */
+
+.heading-section {
+  /* flex properties  */
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: #404040;
+
+  color: white;
+  height: 50px;
+  width: 100vw;
+  margin-bottom: 40px;
+}
+
+.main-heading {
+  font-size: 24px;
+}
+
+.scores-card {
+  height: 80px;
+  background-color: #404040;
+  color: white;
+  margin: 0 40px 0 40px;
+  padding: 20px;
+  box-sizing: border-box;
+  /* margin-top: 20px; */
+
+  display: flex;
+  justify-content: center;
+}
+
+.team-1 {
+  margin-right: 20px;
+}
+
+.team-2 {
+  margin-left: 20px;
+}
+
+.team-1,
+.team-2 {
+  align-self: center;
+}
+
+.game-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.score {
+  font-size: 24px;
+}
