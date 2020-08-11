@@ -1,0 +1,22 @@
+{
+  "name": "score-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrisonJones12/score-board.git"
+  },
+  "author": "Harrison Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrisonJones12/score-board/issues"
+  },
+  "homepage": "https://github.com/harrisonJones12/score-board#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
